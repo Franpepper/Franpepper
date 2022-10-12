@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Francisco
 - 👀 I’m interested in Mobile and Game development
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently working with Kotlin and Android Studio
 
 
 <!---
